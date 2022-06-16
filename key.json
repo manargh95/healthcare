@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "healthcare-application-5effd",
+  "private_key_id": "da29c19abc2af67f644fc0c08191b7e9f74ce410",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCm3CEAIbGFm0dR\nqnv1LXgPSx/L2ehilNSD/Wkv9S/cu39OIucLtok6X4McVb+blzSA48zWhkyt9TYB\n19oaCMThoE7ETnrnrHmmOCk0KrMBZnY5Rchb71ren3EVsp7FOANIFpBKIIJisF2+\nB85dffbh6M70kdAtKDMh0EkmA1PWfqOFWrWTv2EMSrHEOpxGubGGKJBeH4HVK7mQ\npPWLkn8HQ/IfbtbdFa3Vyh/xAeD//zIozSNdEtwcDoIh6LDZUjv2/uDH7cWi+BRR\nI1pSvdw53isd/YjTAat5IaL0hm+2pzxXi5b1XqoexBhm00Yr4yMPDvW+8Yvj8DD7\n9+c0F7QHAgMBAAECggEAEKdVz9qNCkW2N4tpdc4E9pnL4Z+tFvG9yDKppfS1wzUf\nfp/zKXMdfSr9Pf288v2Dav3RevPKgW5A5qwxg3mulMpYMjWXBLptJc7jJebBGPmu\nAQda+PoJusB1G/JI8Gwnv7Eo040tFkZ+BLJowWIKGwAOb9CB04/4kn5kXpvkaTrv\nOLWBqC+ppFYBeTLrALVi1OIOL9vnP8sDCs1sVes1aQpfaZqkkgTKzizVo/U/H4E6\n96Ry/Mm0y62v0un2HtX2FLOJZmEkPJwkD9Wx9CFi+ZeYI/auepD8zxNBMuDrGKYu\n63CiHIEvjnIyT7RPRekcTqEhSO7ww8VvXorMw5gvCQKBgQDThbNpYSulbb9jDC1N\nSFksGPjTgTGv2FsFJDDFYJ3ngWTgY3U4Xgwc6djYBupx8p/mS8kpZVpSVCEQuH13\nEfuzMBAMlEpUxG+v+DvDC/6eU1FAa124JlWRF6+vzmUwgCaWduwMT2OgO8cw6f6P\n3JYqjSg4zNcausleiLGjRMx6OwKBgQDJ8j1qbIcPGaVreijukqedBBsmB4vktRDH\nm8DQgHM6j6AKLn1toF5YaHQqLYfBhnNbA77fqGaPmPF+Ycue4SBo+Kcf5buuo2uF\na20jH1JvSxKzN70cq5jpLppKQ6yeD4KpLgQaoXfYtHZ5v8939Ghl1E7tFSlxkDuP\nQG2MNOwEpQKBgCz9C+rG6xSVYhZ7+Yqtb6Hsccfye5HuD3Xpe6IPaaZapA0BumXR\nwvvHVQKlfencc9v0lIWEdBB8qke3JaBUp9c1ysQSKjkbSrH/tx5GB9K+39I2w8ku\nBhcFFa3r1SPardpk0tHPdN4YuMYTjrwka6ADQ+HI15tszPWZV0bllCQPAoGAe0pM\nGow1jI+AwXQsRzL7582Y8YfL7Y5ptyOs/N5e+xKyh2TIqMQutVTYDuQLLKh0Bs3r\nm0qJiwO59Amqsc4J5mxgRAYSplUZELR8ReQahN3Vhdrytu1AhqQwCET2vu0DPVxd\nnxCTRZcvebcT580sa3bJ1M6FpdKDujqAZwfsTA0CgYByFeEwKTA2iENqzpZwyKA2\ncrmBhyALwRTYS22FV3GmolpbPKxw4xmIqPD49Hj+T/gFw461jcauy69PAT4x9AxO\n7pAWt/ayFRwpeqw72Vg7Mdg4vEGcDzcnr1jgUBk2CYUjnVXHfl1PWmvCfYVgoeut\ns9Bpk4phpdyey3RhJOvEfA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-p6aeh@healthcare-application-5effd.iam.gserviceaccount.com",
+  "client_id": "117803185767106838065",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-p6aeh%40covid19-application-5effd.iam.gserviceaccount.com"
+}
